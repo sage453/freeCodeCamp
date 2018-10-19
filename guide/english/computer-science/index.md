@@ -2,6 +2,7 @@
 title: Computer Science
 ---
 # Computer Science
+<a href="#"><img class="smaller-image" src="https://cdn.britannica.com/77/170477-004-B774BDDF.jpg" alt="A standard laptop PC."></a>
 
 Computer Science is the study of computers and the concepts that make computers possible. It is a scientific approach to computation and its applications. This includes the study of the structure, expression, and algorithms that underlie the manipulation of data.
 
